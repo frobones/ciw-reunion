@@ -10,6 +10,7 @@
 *.txt text eol=lf
 *.yml text eol=lf
 *.yaml text eol=lf
+CNAME text eol=lf
 
 # Declare binary files (won't be modified)
 *.jpg binary
